@@ -200,7 +200,7 @@ class Button(pygame.sprite.Sprite):
 
 # Functions
 
-def get_height():
+def get_height(): # messy af
     choice = random.randint(1, 3)
     if choice == 1:
         num = random.randint(0, 120)
