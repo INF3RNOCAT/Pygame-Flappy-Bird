@@ -22,7 +22,7 @@ CLOCK = pygame.time.Clock()
 VEC = pygame.math.Vector2
 
 GAME_RUNNING = True
-SPACE_PRESSED = True
+SPACE_PRESSED = False
 
 SCORE = 0
 
